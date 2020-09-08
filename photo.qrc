@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/61V58PICDXw.jpg</file>
+        <file>resource/按键1副本.png</file>
+        <file>resource/按键2.png</file>
+        <file>resource/按键3.png</file>
+        <file>resource/按键4.png</file>
+        <file>resource/按键5.png</file>
+        <file>resource/按键6.png</file>
+        <file>resource/按键7.png</file>
+        <file>resource/按键8.png</file>
+        <file>resource/按键9.png</file>
+        <file>resource/按键10.png</file>
+        <file>resource/按键11.png</file>
+        <file>resource/按键12.png</file>
+        <file>resource/QQ图片20180719093059.jpg</file>
+        <file>resource/按键14.png</file>
+        <file>resource/按键15.png</file>
+        <file>resource/按键16.png</file>
+        <file>resource/按键13.png</file>
+        <file>resource/a.gif</file>
+        <file>resource/图标音量.jpg</file>
+        <file>resource/星空动态图.png</file>
+        <file>resource/静音图标.png</file>
+        <file>resource/th.jpg</file>
+    </qresource>
+</RCC>
